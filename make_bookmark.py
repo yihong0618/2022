@@ -5,7 +5,7 @@ from main import login
 YEAR = pendulum.now().year
 
 # Bookmark issue id
-BOOKMARK_ISSUE_NUMBER = 3 
+BOOKMARK_ISSUE_NUMBER = 4 
 
 BOOKMARK_FILE_NAME = f"bookmark_{YEAR}.md"
 
