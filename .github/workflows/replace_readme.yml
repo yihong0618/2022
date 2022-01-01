@@ -1,0 +1,55 @@
+name: Replace README
+
+on:
+  workflow_dispatch:
+    inputs:
+      test:
+        description: 'Test'
+        required: false
+  issue_comment:
+    types: [created, edited]
+
+env:
+  GITHUB_NAME: yihong0618
+  GITHUB_EMAIL: zouzou0208@gmail.com
+
+jobs:
+  sync:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.6
+      - name: Configure pip cache
+        uses: actions/cache@v1
+        id: pip-cache
+        with:
+          path: venv
+          key: pip-1-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+        if: steps.pip-cache.outputs.cache-hit != 'true'
+      - name: Replace README
+        run: |
+          source venv/bin/activate
+          python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}' --issue_label_name '${{ github.event.issue.labels[0].name }}' 
+        if: ${{ github.event.issue.number }} != ${{ env.BOOKMARK_ISSUE_ID }}
+      - name: Push new README
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.G_T }}
+          commit-message: "Replace README"
+          files: README.md
+          rebase: 'true'
+          name: yihong0618 
+          email: zouzou0208@gmail.com

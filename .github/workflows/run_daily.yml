@@ -1,0 +1,56 @@
+name: Get Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,13 * * *"
+
+env:
+  GITHUB_NAME: yihong0618
+  GITHUB_EMAIL: zouzou0208@gmail.com
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: My GitHub Status
+        uses: yihong0618/github-readme-stats@main
+        with:
+          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.6
+      - name: Configure pip cache
+        uses: actions/cache@v1
+        id: pip-cache
+        with:
+          path: venv
+          key: pip-1-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+        if: steps.pip-cache.outputs.cache-hit != 'true'
+
+      - name: Generate new md
+        run: |
+          source venv/bin/activate
+          python get_daily.py ${{ secrets.DUOLINGO_USERNAME }} ${{ secrets.DUOLINGO_PASSWORD }} ${{ secrets.CICHANG_USERNAME }} ${{ secrets.CICHANG_PASSWORD }}  ${{ secrets.G_T }} ${{ github.repository }}
+      - name: Push README
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.G_T }}
+          commit-message: "Refresh README (2021 NUM Daily)"
+          files: README.md
+          rebase: "true"
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
