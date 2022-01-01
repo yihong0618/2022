@@ -111,6 +111,8 @@
 <!--START_SECTION:my_drama-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
+| [《冰血暴》](https://github.com/yihong0618/2022/issues/3#issuecomment-1003545056) | 2022-01-01 | 2022-01-01 | 
+
 <!--END_SECTION:my_drama-->
 
 ## 写博客
