@@ -45,7 +45,7 @@ def get_info_from_issue_comments(me, issues, map_func, reduce_func=sum):
         calendar_str_list.pop()
         calendar_list.pop()
     if not calendar_list:
-        return data, streak, is_today_check, url
+        return data, streak, is_today_check, url, month_summary_dict
     # fuck pendulum's period
     periods = list(
         pendulum.period(
