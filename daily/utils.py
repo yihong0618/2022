@@ -165,5 +165,5 @@ LABEL_DAILY_DICT = {
     # "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
     # "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
     # "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
-    # "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
+    "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
 }
