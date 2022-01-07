@@ -38,7 +38,8 @@ def main(github_token, repo_name, issue_number, issue_label_name):
         comments_name = labels.get("comment_name", "")
     else:
         # from 2021 just for me(yihong0618), if you want to use you can delete the lines below
-        since = datetime(2021, 1, 1)
+        now_year = datetime.now().year
+        since = datetime(now_year, 1, 1)
         issues = u.get_repo(MY_BLOG_REPO).get_issues(since=since, creator=me)
         comment_str = make_blog_issues_str(since, issues)
         comments_name = "my_blog"
