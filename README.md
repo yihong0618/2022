@@ -124,7 +124,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [二零二二的三个小目标](https://github.com/yihong0618/gitblog/issues/229) | 2022-01-07 | 2022-01-07 | 1 | 
+| [二零二二的三个小目标](https://github.com/yihong0618/gitblog/issues/229) | 2022-01-07 | 2022-01-10 | 2 | 
 
 <!--END_SECTION:my_blog-->
 
