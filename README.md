@@ -132,6 +132,7 @@
 | 文章名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ---- | ---- |
 | [时光痕迹：2021 年总结](https://blog.k8s.li/2021.html) | 2022.1.04 | 总结 | 读书 |
+| [My-Engineering-Practice](https://github.com/jschwinger233/jschwinger23.github.io/blob/master/_posts/2019-12-25-My-Engineering-Practice.md) | 2022.01.11 | 总结 | 牛逼 |
 
 
 ## 收藏的博客
