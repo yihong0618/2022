@@ -120,6 +120,14 @@
 
 <!--END_SECTION:my_drama-->
 
+
+## 观影
+
+<!--START_SECTION:my_movie-->
+
+<!--END_SECTION:my_movie-->
+
+
 ## 写博客
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
