@@ -10,3 +10,4 @@
 | [gpdb 调试](https://smartkeyerror.com/How-To-Hack-Greenplum) | https://github.com/yihong0618/2022/issues/4#issuecomment-1012680421 | 2022-01-14 | 2022-01-14 | False |
 | [迟先生](https://www.skyzh.dev/pages/cv/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1012832461 | 2022-01-14 | 2022-01-14 | False |
 | [有趣的人](https://www.binwang.me/page2/index.html) | https://github.com/yihong0618/2022/issues/4#issuecomment-1012927951 | 2022-01-14 | 2022-01-14 | False |
+| [nft](https://github.com/rounakbanik/generative-art-nft) | https://github.com/yihong0618/2022/issues/4#issuecomment-1014256241 | 2022-01-17 | 2022-01-17 | False |
