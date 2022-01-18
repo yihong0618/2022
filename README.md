@@ -146,6 +146,7 @@
 | [时光痕迹：2021 年总结](https://blog.k8s.li/2021.html) | 2022.1.04 | 总结 | 读书 |
 | [My-Engineering-Practice](https://github.com/jschwinger233/jschwinger23.github.io/blob/master/_posts/2019-12-25-My-Engineering-Practice.md) | 2022.01.11 | 总结 | 牛逼 |
 | [How Kubernetes Wins](https://cmgs.me/life/how-k8s-wins) | 2022.01.12 | 思考 | k8s |
+| [2021: 一地鸡毛s](http://www.kilerd.me/summaries-my-2021/) | 2022.01.18 | 反思 | 未来 |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
