@@ -13,3 +13,4 @@
 | [nft](https://github.com/rounakbanik/generative-art-nft) | https://github.com/yihong0618/2022/issues/4#issuecomment-1014256241 | 2022-01-17 | 2022-01-17 | False |
 | [b tree](https://github.com/linw1995/bt) | https://github.com/yihong0618/2022/issues/4#issuecomment-1015179717 | 2022-01-18 | 2022-01-18 | False |
 | [haskell ](https://github.com/flaneur2020/lyah) | https://github.com/yihong0618/2022/issues/4#issuecomment-1016212648 | 2022-01-19 | 2022-01-19 | False |
+| [nginx](https://github.com/taobao/nginx-book) | https://github.com/yihong0618/2022/issues/4#issuecomment-1017075103 | 2022-01-20 | 2022-01-20 | False |
