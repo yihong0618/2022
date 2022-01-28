@@ -136,7 +136,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [年终岁尾](https://github.com/yihong0618/gitblog/issues/230) | 2022-01-28 | 2022-01-28 | 2 | 
+| [年终岁尾](https://github.com/yihong0618/gitblog/issues/230) | 2022-01-28 | 2022-01-28 | 3 | 
 | [二零二二的三个小目标](https://github.com/yihong0618/gitblog/issues/229) | 2022-01-07 | 2022-01-26 | 4 | 
 
 <!--END_SECTION:my_blog-->
