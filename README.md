@@ -116,6 +116,10 @@
 ## 读书
 
 <!--START_SECTION:my_read-->
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《刺杀骑士团长》](https://github.com/yihong0618/2022/issues/10#issuecomment-1030985891) | 2022-02-07 | 2022-02-07 | 
+
 <!--END_SECTION:my_read-->
 
 
