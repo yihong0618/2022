@@ -173,4 +173,4 @@
 | [ggarlic](http://ggarlic.org/) | 2022.01.20 | 前辈 | 好久没更新 |
 | [Conge](https://conge.github.io/) | 2022.01.24 | 记录跑步的人 | 豆瓣 |
 | [F叔](http://flaneur2020.github.io/) | 2022.01.27 | 厉害的人 | 希望有一天能看懂 |
-
+| [硬盘在歌唱](https://disksing.com/) | 2022.02.07 | 前辈 | 数据库 |
