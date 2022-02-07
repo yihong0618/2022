@@ -112,6 +112,13 @@
 
 <!--END_SECTION:my_github-->
 
+
+## 读书
+
+<!--START_SECTION:my_read-->
+<!--END_SECTION:my_read-->
+
+
 ## 刷剧
 
 <!--START_SECTION:my_drama-->
