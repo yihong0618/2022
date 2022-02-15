@@ -20,3 +20,4 @@
 | [error message](https://www.morling.dev/blog/whats-in-a-good-error-message/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1031086143 | 2022-02-07 | 2022-02-07 | False |
 | [强人](http://blog.erezsh.com/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1038497293 | 2022-02-14 | 2022-02-15 | False |
 | [browser](https://browser.engineering/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1039976258 | 2022-02-15 | 2022-02-15 | False |
+| [递归](https://xxchan.github.io/cs/2022/02/15/recursion-to-iteration.html) | https://github.com/yihong0618/2022/issues/4#issuecomment-1040234155 | 2022-02-15 | 2022-02-15 | False |
