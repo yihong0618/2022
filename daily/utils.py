@@ -15,6 +15,7 @@ from .config import (
     WEEKLY_LABEL_LIST,
     MORNING_LABEL_LIST,
     PUSHUP_LABEL_LIST,
+    SQUAT_LABEL_LIST,
 )
 
 
@@ -162,6 +163,7 @@ def comment_to_GTD_count(comment):
 LABEL_DAILY_DICT = {
     # label, map_func, reduce_func
     "俯卧撑": [PUSHUP_LABEL_LIST, comment_to_int, sum],
+    "深蹲": [SQUAT_LABEL_LIST, comment_to_int, sum],
     "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
     "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
     "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
