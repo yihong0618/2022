@@ -2,13 +2,9 @@ import argparse
 
 from github import Github
 
-from daily.config import (
-    MONTH_SUMMARY_HEAD,
-    MONTH_SUMMARY_STAT_TEMPLATE,
-)
-from daily.utils import replace_readme_comments, LABEL_DAILY_DICT
 from daily import MY_STATUS_DICT_FROM_API, MY_STATUS_DICT_FROM_COMMENTS
-
+from daily.config import MONTH_SUMMARY_HEAD, MONTH_SUMMARY_STAT_TEMPLATE
+from daily.utils import LABEL_DAILY_DICT, replace_readme_comments
 
 MY_NUMBER_STAT_HEAD = (
     "| Name | Status | Streak | Today? | \n | ---- | ---- | ---- | ---- |\n"
@@ -103,9 +99,16 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("github_token", help="github_token")
     parser.add_argument("repo_name", help="repo_name")
+    parser.add_argument("cichang_user_name", help="cichang_user_name")
+    parser.add_argument("cichang_password", help="cichang_password")
+    parser.add_argument("forst_email", help="forst_email")
+    parser.add_argument("forst_password", help="forst_password")
     options = parser.parse_args()
     # add more login auth info here
-    login_auth_dict = {}
+    login_auth_dict = {
+        "词场": (options.cichang_user_name, options.cichang_password),
+        "番茄": (options.forst_email, options.forst_password),
+    }
     main(
         login_auth_dict,
         options.github_token,

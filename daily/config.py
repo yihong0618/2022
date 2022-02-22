@@ -67,6 +67,16 @@ MY_DUOLINGO_URL = "https://www.duolingo.com/profile/yihong0618"
 ##### CICHANG ######
 MY_CICHANG_URL = "https://twitter.com/yihong06181/status/1359040099107897344?s=20"
 
+##### FORST ######
+
+FOREST_URL_HEAD = "https://forest-china.upwardsware.com"
+FOREST_LOGIN_URL = FOREST_URL_HEAD + "/api/v1/sessions"
+FOREST_CLAENDAR_URL = (
+    FOREST_URL_HEAD
+    + "/api/v1/plants/updated_plants?update_since={date}&seekruid={user_id}"
+)
+FOREST_TAG_URL = FOREST_URL_HEAD + "/api/v1/tags?seekruid={user_id}"
+
 ##### BASE COMMENT TABLE ######
 BASE_ISSUE_STAT_HEAD = "| Name | Start | Update | \n | ---- | ---- | ---- | \n"
 BASE_ISSUE_STAT_TEMPLATE = "| {name} | {start} | {update} | \n"

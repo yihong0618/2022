@@ -41,7 +41,7 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          python get_daily.py ${{ secrets.G_T }} ${{ github.repository }}
+          python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }}
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
