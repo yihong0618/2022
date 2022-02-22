@@ -5,7 +5,7 @@ from datetime import datetime
 
 import pendulum
 import requests
-from config import (
+from .config import (
     FOREST_CLAENDAR_URL,
     FOREST_ISSUE_NUMBER,
     FOREST_LOGIN_URL,
