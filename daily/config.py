@@ -99,3 +99,8 @@ FOOD_ISSUE_STAT_TEMPLATE = "| {name} | {first_date} | {last_date} | {times} |\n"
 MONTH_SUMMARY_HEAD = "| Month | Number | \n | ---- | ---- | \n"
 
 MONTH_SUMMARY_STAT_TEMPLATE = "| {month} | {number} |\n"
+
+##### Forest Summary ######
+FOREST_SUMMARY_HEAD = "| Tag | Times | \n | ---- | ---- | \n"
+FOREST_SUMMARY_STAT_TEMPLATE = "| {tag} | {times} |\n"
+FOREST_ISSUE_NUMBER = 12

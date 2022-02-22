@@ -107,7 +107,12 @@ if __name__ == "__main__":
     # add more login auth info here
     login_auth_dict = {
         "词场": (options.cichang_user_name, options.cichang_password),
-        "番茄": (options.forst_email, options.forst_password),
+        "番茄": (
+            options.forst_email,
+            options.forst_password,
+            options.github_token,
+            options.repo_name,
+        ),
     }
     main(
         login_auth_dict,

@@ -1,12 +1,20 @@
 import argparse
 import json
+from collections import Counter
 from datetime import datetime
 
 import pendulum
 import requests
-
-from .config import (FOREST_CLAENDAR_URL, FOREST_LOGIN_URL, FOREST_TAG_URL,
-                     FOREST_URL_HEAD)
+from config import (
+    FOREST_CLAENDAR_URL,
+    FOREST_ISSUE_NUMBER,
+    FOREST_LOGIN_URL,
+    FOREST_SUMMARY_HEAD,
+    FOREST_SUMMARY_STAT_TEMPLATE,
+    FOREST_TAG_URL,
+    FOREST_URL_HEAD,
+)
+from github import Github
 
 
 class Forst:
@@ -38,20 +46,51 @@ class Forst:
         self.plants = r.json()["plants"]
         # only count success trees
         self.plants = [i for i in self.plants if i["is_success"]]
+        self._make_forest_dict()
 
     def _get_my_tags(self):
         r = self.s.get(FOREST_TAG_URL.format(user_id=self.user_id))
         if not r.ok:
             raise Exception("Can not get tags")
-        return r.json().get("tags", [])
+        tag_list = r.json().get("tags", [])
+        tag_dict = {}
+        for t in tag_list:
+            tag_dict[t["tag_id"]] = t["title"]
+        return tag_dict
 
     def make_year_stats(self):
         if not self.is_login:
             raise Exception("Please login first")
         self.make_plants_data()
 
-    def _get_forst_steak(self):
-        pass
+    def _make_forest_dict(self):
+        if not self.plants:
+            self.make_plants_data()
+        tags_dict = self._get_my_tags()
+        d = Counter()
+        for p in self.plants:
+            d[tags_dict[p.get("tag")]] += 1
+        return d
+
+    @staticmethod
+    def _make_tag_summary_str(tag_summary_dict, unit):
+        s = FOREST_SUMMARY_HEAD
+        for k, v in tag_summary_dict.most_common():
+            s += FOREST_SUMMARY_STAT_TEMPLATE.format(tag=k, times=str(v) + f" {unit}")
+        return s
+
+    def make_new_table(self, token, repo_name, issue_number=FOREST_ISSUE_NUMBER):
+        u = Github(token)
+        issue = u.get_repo(repo_name).get_issue(FOREST_ISSUE_NUMBER)
+        unit = "个"
+        body = ""
+        tag_summary_dict = self._make_forest_dict()
+        for b in issue.body.splitlines():
+            if b.startswith("|"):
+                break
+            body += b
+        body = body + "\r\n" + self._make_tag_summary_str(tag_summary_dict, unit)
+        issue.edit(body=body)
 
     def make_forst_daily(self):
         end_date = pendulum.now("Asia/Shanghai")
@@ -85,9 +124,11 @@ class Forst:
         return len(self.plants), streak, is_today_check
 
 
-def get_forst_daily(email, password):
+def get_forst_daily(email, password, github_token, repo_name):
     f = Forst(email, password)
     f.login()
+    # also edit the issue body
+    f.make_new_table(github_token, repo_name)
     return f.make_forst_daily()
 
 
@@ -95,7 +136,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("email", help="email")
     parser.add_argument("password", help="password")
+    parser.add_argument("github_token", help="github_token")
+    parser.add_argument("repo_name", help="repo_name")
     options = parser.parse_args()
     f = Forst(options.email, options.password)
     f.login()
-    print(f.make_forst_daily())
+    f._make_forest_dict()
+    print(f.make_new_table(options.github_token, options.repo_name))
