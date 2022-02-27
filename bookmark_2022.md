@@ -21,3 +21,4 @@
 | [强人](http://blog.erezsh.com/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1038497293 | 2022-02-14 | 2022-02-15 | False |
 | [browser](https://browser.engineering/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1039976258 | 2022-02-15 | 2022-02-15 | False |
 | [递归](https://xxchan.github.io/cs/2022/02/15/recursion-to-iteration.html) | https://github.com/yihong0618/2022/issues/4#issuecomment-1040234155 | 2022-02-15 | 2022-02-15 | False |
+| [Rust linked list](https://jasonkayzk.github.io/2022/02/20/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1053528416 | 2022-02-27 | 2022-02-27 | False |
