@@ -151,6 +151,9 @@
 ## 刷番
 
 <!--START_SECTION:my_bangumi-->
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [齐木楠雄的灾难](https://github.com/yihong0618/2022/issues/13#issuecomment-1066528007) | 2022-03-14 | 2022-03-14 | 
 
 <!--END_SECTION:my_bangumi-->
 
