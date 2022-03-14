@@ -148,6 +148,11 @@
 
 <!--END_SECTION:my_movie-->
 
+## 刷番
+
+<!--START_SECTION:my_bangumi-->
+
+<!--END_SECTION:my_bangumi-->
 
 ## 写博客
 <!--START_SECTION:my_blog-->

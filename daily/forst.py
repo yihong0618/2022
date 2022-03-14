@@ -5,6 +5,8 @@ from datetime import datetime
 
 import pendulum
 import requests
+from github import Github
+
 from .config import (
     FOREST_CLAENDAR_URL,
     FOREST_ISSUE_NUMBER,
@@ -14,7 +16,6 @@ from .config import (
     FOREST_TAG_URL,
     FOREST_URL_HEAD,
 )
-from github import Github
 
 
 class Forst:
