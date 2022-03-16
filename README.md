@@ -189,3 +189,5 @@
 | [F叔](http://flaneur2020.github.io/) | 2022.01.27 | 厉害的人 | 希望有一天能看懂 |
 | [硬盘在歌唱](https://disksing.com/) | 2022.02.07 | 前辈 | 数据库 |
 | [程序员的喵](https://catcoding.me/archives/) | 2022.02.11 | 写到 60 岁 | cool |
+| [Lei Mao](https://leimao.github.io/) | 2022.03.16 | 图形学 | 徒步 |
+
