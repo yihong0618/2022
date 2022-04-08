@@ -27,3 +27,4 @@
 | [go 八股文](https://hj24.life/posts/%E5%85%AB%E8%82%A1%E6%96%87-go%E7%AF%87/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1080106333 | 2022-03-28 | 2022-03-28 | False |
 | [eBPF](https://cloudnative.to/blog/bpf-intro/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1082499182 | 2022-03-30 | 2022-03-30 | False |
 | [coredump](http://just4coding.com/archives/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1085772131 | 2022-04-01 | 2022-04-01 | False |
+| [db](http://www.cs.cmu.edu/~malin199/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1092393855 | 2022-04-08 | 2022-04-08 | False |
