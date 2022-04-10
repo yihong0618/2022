@@ -158,6 +158,7 @@
 | [《徒手攀岩》](https://github.com/yihong0618/2022/issues/8#issuecomment-1014972841) | 2022-01-18 | 2022-01-18 | 
 | [《奇迹》](https://github.com/yihong0618/2022/issues/8#issuecomment-1034338160) | 2022-02-10 | 2022-02-10 | 
 | [《蜘蛛侠3》](https://github.com/yihong0618/2022/issues/8#issuecomment-1073400796) | 2022-03-21 | 2022-03-21 | 
+| [《新蝙蝠侠》](https://github.com/yihong0618/2022/issues/8#issuecomment-1094267967) | 2022-04-10 | 2022-04-10 | 
 
 <!--END_SECTION:my_movie-->
 
