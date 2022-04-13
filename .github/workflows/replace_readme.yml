@@ -44,12 +44,15 @@ jobs:
           source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_numbe '${{ github.event.issue.number }}' --issue_label_name '${{ github.event.issue.labels[0].name }}' 
         if: ${{ github.event.issue.number }} != ${{ env.BOOKMARK_ISSUE_ID }}
-      - name: Push new README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Replace README"
-          files: README.md
-          rebase: 'true'
-          name: yihong0618 
-          email: zouzou0208@gmail.com
+      # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
+      - name: Push README
+        run: |
+          date > generated.txt
+          git config user.name yihong0618
+          git config user.email zouzou0208@gmail.com
+          git add .
+          git commit -m "generated readme"
+          git push
