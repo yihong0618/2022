@@ -55,6 +55,8 @@ jobs:
         with:
           github_token: ${{ secrets.G_T }}
           branch: ${{ github.head_ref }}
+          force: true
+  
 #         uses: github-actions-x/commit@v2.6
 #         with:
 #           github-token: ${{ secrets.G_T }}
