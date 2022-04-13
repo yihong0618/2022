@@ -54,8 +54,8 @@ jobs:
       - name: Push README
         run: |
           date > generated.txt
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name yihong0618
+          git config user.email zouzou0208@gmail.com
           git add .
           git commit -m "generated"
           git push
