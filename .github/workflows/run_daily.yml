@@ -43,11 +43,15 @@ jobs:
           source venv/bin/activate
           python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }}
       - name: Push README
-        uses: github-actions-x/commit@v2.6
+        uses: actions-js/push@master
         with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Refresh README (2022 NUM Daily)"
-          files: README.md
-          rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+          github_token: ${{ secrets.G_T }}
+          branch: ${{ github.head_ref }}
+#         uses: github-actions-x/commit@v2.6
+#         with:
+#           github-token: ${{ secrets.G_T }}
+#           commit-message: "Refresh README (2022 NUM Daily)"
+#           files: README.md
+#           rebase: "true"
+#           name: ${{ env.GITHUB_NAME }}
+#           email: ${{ env.GITHUB_EMAIL }}
