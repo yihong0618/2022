@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@main
         with:
           fetch-depth: 0
+      - name: My GitHub Status
+        uses: yihong0618/github-readme-stats@main
 
       - name: Set up Python
         uses: actions/setup-python@v1
