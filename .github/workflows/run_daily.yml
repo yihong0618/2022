@@ -45,6 +45,11 @@ jobs:
         run: |
           source venv/bin/activate
           python get_daily.py ${{ secrets.G_T }} ${{ github.repository }} ${{ secrets.CICHANG_USER_NAME }} ${{ secrets.CICHANG_PASSWORD }} ${{ secrets.FORST_EMAIL }} ${{ secrets.FORST_PASSWORD }}
+
+      # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
       - name: Push README
         uses: actions-js/push@master
         with:
