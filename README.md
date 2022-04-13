@@ -207,5 +207,6 @@
 | [Lei Mao](https://leimao.github.io/) | 2022.03.16 | 图形学 | 徒步 |
 | [CFC4N](https://www.cnxct.com/) | 2022.03.26 | 黑客 | 安全 |
 | [ZealScott](https://tech.zealscott.com/curriculum/) | 2022.03.30 | 学习 | 优秀的少年 |
+| [dingmos](https://www.dingmos.com/) | 2022.04.13 | 向他学习 | Linux 少年 |
 
 
