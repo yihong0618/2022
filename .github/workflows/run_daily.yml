@@ -14,10 +14,11 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          persist-credentials: false
+          ref: main
+
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@main
 
@@ -51,17 +52,11 @@ jobs:
         run: |
           git config --global --add safe.directory /github/workspace
       - name: Push README
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.G_T }}
-          branch: ${{ github.head_ref }}
-          force: true
-  
-#         uses: github-actions-x/commit@v2.6
-#         with:
-#           github-token: ${{ secrets.G_T }}
-#           commit-message: "Refresh README (2022 NUM Daily)"
-#           files: README.md
-#           rebase: "true"
-#           name: ${{ env.GITHUB_NAME }}
-#           email: ${{ env.GITHUB_EMAIL }}
+        run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
+
