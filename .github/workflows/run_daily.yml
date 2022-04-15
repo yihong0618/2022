@@ -53,10 +53,9 @@ jobs:
           git config --global --add safe.directory /github/workspace
       - name: Push README
         run: |
-          date > generated.txt
-          git config user.name yihong0618
-          git config user.email zouzou0208@gmail.com
+          git config --local user.name yihong0618
+          git config --local user.email zouzou0208@gmail.com
           git add .
-          git commit -m "generated"
-          git push
+          git commit -m "new daily stats" || echo "no file change"
+          git push || echo "no need push"
 
