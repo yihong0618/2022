@@ -42,10 +42,6 @@ jobs:
           source venv/bin/activate
           python make_bookmark.py ${{ secrets.G_T }} ${{ github.repository }}
         if: ${{ github.event.issue.number }} == ${{ env.BOOKMARK_ISSUE_ID }}
-      # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
-      - name: Run safe dir
-        run: |
-          git config --global --add safe.directory /github/workspace
       - name: Push Bookmark README
         run: |
           git config --local user.name yihong0618
