@@ -32,3 +32,4 @@
 | [python bytecode](https://bernsteinbear.com/blog/discovering-basic-blocks/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1096651674 | 2022-04-12 | 2022-04-12 | False |
 | [postgres](https://blog.sasa.su/diary/pgsql_file_format/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1100651175 | 2022-04-16 | 2022-04-16 | False |
 | [slack](https://slack.engineering/reducing-slacks-memory-footprint/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1100790473 | 2022-04-17 | 2022-04-17 | False |
+| [python  venv](https://medium.com/swlh/a-guide-to-python-virtual-environments-8af34aa106ac) | https://github.com/yihong0618/2022/issues/4#issuecomment-1101059225 | 2022-04-18 | 2022-04-18 | False |
