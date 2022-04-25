@@ -176,6 +176,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [Postgres 需要学的东西](https://github.com/yihong0618/gitblog/issues/234) | 2022-04-25 | 2022-04-25 | 0 | 
 | [Postgres 中 GUC 的一些记录](https://github.com/yihong0618/gitblog/issues/233) | 2022-04-21 | 2022-04-21 | 0 | 
 | [运交华盖与何求](https://github.com/yihong0618/gitblog/issues/231) | 2022-03-03 | 2022-04-23 | 4 | 
 | [年终岁尾](https://github.com/yihong0618/gitblog/issues/230) | 2022-01-28 | 2022-01-29 | 4 | 
