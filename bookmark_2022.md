@@ -34,3 +34,4 @@
 | [slack](https://slack.engineering/reducing-slacks-memory-footprint/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1100790473 | 2022-04-17 | 2022-04-17 | False |
 | [python  venv](https://medium.com/swlh/a-guide-to-python-virtual-environments-8af34aa106ac) | https://github.com/yihong0618/2022/issues/4#issuecomment-1101059225 | 2022-04-18 | 2022-04-18 | False |
 | [talks ](https://github.com/jserv/talks) | https://github.com/yihong0618/2022/issues/4#issuecomment-1102134483 | 2022-04-19 | 2022-04-19 | False |
+| [原子操作](https://www.parallellabs.com/2010/04/15/atomic-operation-in-multithreaded-application/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1108047139 | 2022-04-25 | 2022-04-25 | False |
