@@ -38,3 +38,4 @@
 | [时序数据库](https://chenjiandongx.me/2021/08/02/db-mandodb/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1110578796 | 2022-04-27 | 2022-04-27 | False |
 | [底层](https://rcore-os.github.io/rCore-Tutorial-Book-v3/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111633223 | 2022-04-28 | 2022-04-28 | False |
 | [日语](https://github.com/DehuaZhao/go-nihongo) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111765043 | 2022-04-28 | 2022-04-28 | False |
+| [C 语言](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111780174 | 2022-04-28 | 2022-04-28 | False |
