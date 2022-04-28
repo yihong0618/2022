@@ -36,3 +36,4 @@
 | [talks ](https://github.com/jserv/talks) | https://github.com/yihong0618/2022/issues/4#issuecomment-1102134483 | 2022-04-19 | 2022-04-19 | False |
 | [原子操作](https://www.parallellabs.com/2010/04/15/atomic-operation-in-multithreaded-application/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1108047139 | 2022-04-25 | 2022-04-25 | False |
 | [时序数据库](https://chenjiandongx.me/2021/08/02/db-mandodb/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1110578796 | 2022-04-27 | 2022-04-27 | False |
+| [底层](https://rcore-os.github.io/rCore-Tutorial-Book-v3/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111633223 | 2022-04-28 | 2022-04-28 | False |
