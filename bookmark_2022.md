@@ -39,3 +39,4 @@
 | [底层](https://rcore-os.github.io/rCore-Tutorial-Book-v3/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111633223 | 2022-04-28 | 2022-04-28 | False |
 | [日语](https://github.com/DehuaZhao/go-nihongo) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111765043 | 2022-04-28 | 2022-04-28 | False |
 | [C 语言](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111780174 | 2022-04-28 | 2022-04-28 | False |
+| [500 lines](https://shuhari.dev/blog/2022/02/500lines-rewrite-dagoba) | https://github.com/yihong0618/2022/issues/4#issuecomment-1114444830 | 2022-05-02 | 2022-05-02 | False |
