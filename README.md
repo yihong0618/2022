@@ -215,4 +215,6 @@
 | [dingmos](https://www.dingmos.com/) | 2022.04.13 | 向他学习 | Linux 少年 |
 | [子龙山人](https://zilongshanren.com/) | 2022.05.12 | 游戏 | Emacs |
 | [hidva](https://blog.hidva.com/) | 2022.05.20 | 牛逼 | gpdb |
+| [martins3](https://martins3.github.io/) | 2022.05.30 | linux | 优秀的年轻人 |
+
 
