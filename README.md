@@ -201,7 +201,7 @@
 | 博客名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ---- | ---- |
 | [messense](https://keybase.io/messense) | 2022.01.02 | 第一个 | 惊叹的人 |
-| [eatonphil](https://keybase.io/messense) | 2022.01.11 | 神 | English |
+| [eatonphil](https://notes.eatonphil.com/) | 2022.01.11 | 神 | English |
 | [jschwinger233](https://github.com/jschwinger233/jschwinger23.github.io/tree/master/_posts) | 2022.01.11 | 捕蛇者说群里最敬仰的人 | 翻到了 |
 | [Zlog](https://www.zlog.in/) | 2022.01.14 | 记录论文的人 | 喜欢 |
 | [ggarlic](http://ggarlic.org/) | 2022.01.20 | 前辈 | 好久没更新 |
