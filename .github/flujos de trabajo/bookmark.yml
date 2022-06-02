@@ -1,4 +1,4 @@
-name: Bookmark
+Ji,name: Bookmark
 
 on:
   workflow_dispatch:
