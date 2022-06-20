@@ -218,5 +218,4 @@
 | [子龙山人](https://zilongshanren.com/) | 2022.05.12 | 游戏 | Emacs |
 | [hidva](https://blog.hidva.com/) | 2022.05.20 | 牛逼 | gpdb |
 | [martins3](https://martins3.github.io/) | 2022.05.30 | linux | 优秀的年轻人 |
-
-
+| [I'm dev]([https://martins3.github.io/](https://i-m.dev/archives/)) | 2022.06.20 | linux | 喜欢历史的少年 |
