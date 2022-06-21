@@ -41,7 +41,7 @@
 | [C 语言](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | https://github.com/yihong0618/2022/issues/4#issuecomment-1111780174 | 2022-04-28 | 2022-04-28 | False |
 | [500 lines](https://shuhari.dev/blog/2022/02/500lines-rewrite-dagoba) | https://github.com/yihong0618/2022/issues/4#issuecomment-1114444830 | 2022-05-02 | 2022-05-02 | False |
 | [年终总结](https://me.ursb.me/archives/2021.html) | https://github.com/yihong0618/2022/issues/4#issuecomment-1118496819 | 2022-05-05 | 2022-05-05 | False |
-| [操作系统](https://github.com/copy/v86) | https://github.com/yihong0618/2022/issues/4#issuecomment-1120106613 | 2022-05-07 | 2022-05-07 | False |
+| [操作系统](https://github.com/copy/v86) | https://github.com/yihong0618/2022/issues/4#issuecomment-1120106613 | 2022-05-07 | 2022-06-21 | False |
 | [greenplum](https://www.infoq.cn/article/3IJ7L8HVR2MXhqaqI2RA) | https://github.com/yihong0618/2022/issues/4#issuecomment-1120643198 | 2022-05-09 | 2022-05-09 | False |
 | [cmake ](https://zhjwpku.com/category/2020/04/04/effective-modern-cmake-practice.html) | https://github.com/yihong0618/2022/issues/4#issuecomment-1158626051 | 2022-06-17 | 2022-06-17 | False |
 | [逆向](https://github.com/heyhu/AndroidReverseStudy) | https://github.com/yihong0618/2022/issues/4#issuecomment-1158723584 | 2022-06-17 | 2022-06-17 | False |
