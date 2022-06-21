@@ -197,7 +197,7 @@
 | [How Kubernetes Wins](https://cmgs.me/life/how-k8s-wins) | 2022.01.12 | 思考 | k8s |
 | [2021: 一地鸡毛](http://www.kilerd.me/summaries-my-2021/) | 2022.01.18 | 反思 | 未来 |
 | [更好的异常日志打印](https://wklken.me/posts/2022/01/16/better-code-2-logging.html) | 2022.01.19 | Better code | 成长 |
-
+| [On leaving Mapbox](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/) | 2022.06.21 | MapBox | 唏嘘 |
 
 ## 收藏的博客
 | 博客名称 | 添加日期 | type | 备注 |
