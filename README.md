@@ -198,7 +198,7 @@
 | [2021: 一地鸡毛](http://www.kilerd.me/summaries-my-2021/) | 2022.01.18 | 反思 | 未来 |
 | [更好的异常日志打印](https://wklken.me/posts/2022/01/16/better-code-2-logging.html) | 2022.01.19 | Better code | 成长 |
 | [On leaving Mapbox](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/) | 2022.06.21 | MapBox | 唏嘘 |
-| [jyywiki](https://jyywiki.cn/) | 2022.06.22 | jyy | 震撼 |
+| [累死的人](https://greyli.com/nine-hundred/) | 2022.07.05 | 厉害的文字 | 心酸 |
 
 
 ## 收藏的博客
@@ -221,3 +221,5 @@
 | [hidva](https://blog.hidva.com/) | 2022.05.20 | 牛逼 | gpdb |
 | [martins3](https://martins3.github.io/) | 2022.05.30 | linux | 优秀的年轻人 |
 | [I'm dev](https://i-m.dev/archives/) | 2022.06.20 | linux | 喜欢历史的少年 |
+| [jyywiki](https://jyywiki.cn/) | 2022.06.22 | jyy | 震撼 |
+
