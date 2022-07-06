@@ -222,4 +222,6 @@
 | [martins3](https://martins3.github.io/) | 2022.05.30 | linux | 优秀的年轻人 |
 | [I'm dev](https://i-m.dev/archives/) | 2022.06.20 | linux | 喜欢历史的少年 |
 | [jyywiki](https://jyywiki.cn/) | 2022.06.22 | jyy | 震撼 |
+| [izs](https://blog.izs.me/archive/) | 2022.07.06 | npm | 神的世界 |
+
 
