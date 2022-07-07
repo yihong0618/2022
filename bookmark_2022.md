@@ -47,3 +47,4 @@
 | [逆向](https://github.com/heyhu/AndroidReverseStudy) | https://github.com/yihong0618/2022/issues/4#issuecomment-1158723584 | 2022-06-17 | 2022-06-17 | False |
 | [代理](https://roamresearch.com/#/app/FEZ/page/ZHxtj8aCr) | https://github.com/yihong0618/2022/issues/4#issuecomment-1165354829 | 2022-06-24 | 2022-06-24 | False |
 | [strace ](https://lynskylate.github.io/post/stacktrace/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1175757374 | 2022-07-06 | 2022-07-06 | False |
+| [ELF](https://paper.seebug.org/1289/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1177188520 | 2022-07-07 | 2022-07-07 | False |
