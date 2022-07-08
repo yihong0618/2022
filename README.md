@@ -200,6 +200,7 @@
 | [更好的异常日志打印](https://wklken.me/posts/2022/01/16/better-code-2-logging.html) | 2022.01.19 | Better code | 成长 |
 | [On leaving Mapbox](https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/) | 2022.06.21 | MapBox | 唏嘘 |
 | [累死的人](https://greyli.com/nine-hundred/) | 2022.07.05 | 厉害的文字 | 心酸 |
+| [关于我大学这四年的碎碎念](https://github.red/bye-hdu/) | 2022.07.08 | 厉害的年轻人 | CVE |
 
 
 ## 收藏的博客
