@@ -137,6 +137,7 @@
  | ---- | ---- | ---- | 
 | [《刺杀骑士团长》](https://github.com/yihong0618/2022/issues/10#issuecomment-1030985891) | 2022-02-07 | 2022-02-07 | 
 | [《雕塑家》](https://github.com/yihong0618/2022/issues/10#issuecomment-1059076127) | 2022-03-04 | 2022-03-04 | 
+| [《弃猫》](https://github.com/yihong0618/2022/issues/10#issuecomment-1179730782) | 2022-07-10 | 2022-07-10 | 
 
 <!--END_SECTION:my_read-->
 
