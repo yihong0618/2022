@@ -165,6 +165,7 @@
 | [《蜘蛛侠3》](https://github.com/yihong0618/2022/issues/8#issuecomment-1073400796) | 2022-03-21 | 2022-03-21 | 
 | [《新蝙蝠侠》](https://github.com/yihong0618/2022/issues/8#issuecomment-1094267967) | 2022-04-10 | 2022-04-10 | 
 | [《驾驶我的车》](https://github.com/yihong0618/2022/issues/8#issuecomment-1140608161) | 2022-05-30 | 2022-05-30 | 
+| [《疾速追杀1》](https://github.com/yihong0618/2022/issues/8#issuecomment-1194988562) | 2022-07-26 | 2022-07-26 | 
 
 <!--END_SECTION:my_movie-->
 
