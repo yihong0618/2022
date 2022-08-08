@@ -49,4 +49,4 @@
 | [strace ](https://lynskylate.github.io/post/stacktrace/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1175757374 | 2022-07-06 | 2022-07-06 | False |
 | [ELF](https://paper.seebug.org/1289/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1177188520 | 2022-07-07 | 2022-07-07 | False |
 | [动态规划](https://www.nosuchfield.com/2022/06/10/A-brief-look-at-Dynamic-programming/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1186716920 | 2022-07-18 | 2022-07-18 | False |
-| [Linux](https://github.com/sunym1993/flash-linux0.11-talk) | https://github.com/yihong0618/2022/issues/4#issuecomment-1200887028 | 2022-08-01 | 2022-08-01 | False |
+| [Linux](https://github.com/sunym1993/flash-linux0.11-talk) | https://github.com/yihong0618/2022/issues/4#issuecomment-1200887028 | 2022-08-01 | 2022-08-08 | False |
