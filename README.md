@@ -178,6 +178,7 @@
  | ---- | ---- | ---- | 
 | [《齐木楠雄的灾难》](https://github.com/yihong0618/2022/issues/13#issuecomment-1066528007) | 2022-03-14 | 2022-05-09 | 
 | [《间谍过家家》](https://github.com/yihong0618/2022/issues/13#issuecomment-1120537717) | 2022-05-09 | 2022-05-09 | 
+| [《电锯人》](https://github.com/yihong0618/2022/issues/13#issuecomment-1207551792) | 2022-08-08 | 2022-08-08 | 
 
 <!--END_SECTION:my_bangumi-->
 
