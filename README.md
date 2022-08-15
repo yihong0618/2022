@@ -233,5 +233,4 @@
 | [I'm dev](https://i-m.dev/archives/) | 2022.06.20 | linux | 喜欢历史的少年 |
 | [jyywiki](https://jyywiki.cn/) | 2022.06.22 | jyy | 震撼 |
 | [izs](https://blog.izs.me/archive/) | 2022.07.06 | npm | 神的世界 |
-
-
+| [brandur](https://brandur.org/) | 2022.08.15 | postgres | English |
