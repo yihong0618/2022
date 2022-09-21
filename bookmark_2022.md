@@ -44,7 +44,7 @@
 | [操作系统](https://github.com/copy/v86) | https://github.com/yihong0618/2022/issues/4#issuecomment-1120106613 | 2022-05-07 | 2022-07-13 | False |
 | [greenplum](https://www.infoq.cn/article/3IJ7L8HVR2MXhqaqI2RA) | https://github.com/yihong0618/2022/issues/4#issuecomment-1120643198 | 2022-05-09 | 2022-05-09 | False |
 | [cmake ](https://zhjwpku.com/category/2020/04/04/effective-modern-cmake-practice.html) | https://github.com/yihong0618/2022/issues/4#issuecomment-1158626051 | 2022-06-17 | 2022-06-17 | False |
-| [逆向](https://github.com/heyhu/AndroidReverseStudy) | https://github.com/yihong0618/2022/issues/4#issuecomment-1158723584 | 2022-06-17 | 2022-06-17 | False |
+| [逆向](https://github.com/heyhu/AndroidReverseStudy) | https://github.com/yihong0618/2022/issues/4#issuecomment-1158723584 | 2022-06-17 | 2022-09-21 | False |
 | [代理](https://roamresearch.com/#/app/FEZ/page/ZHxtj8aCr) | https://github.com/yihong0618/2022/issues/4#issuecomment-1165354829 | 2022-06-24 | 2022-06-24 | False |
 | [strace ](https://lynskylate.github.io/post/stacktrace/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1175757374 | 2022-07-06 | 2022-07-06 | False |
 | [ELF](https://paper.seebug.org/1289/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1177188520 | 2022-07-07 | 2022-07-07 | False |
