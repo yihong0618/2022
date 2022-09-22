@@ -52,3 +52,4 @@
 | [Linux](https://github.com/sunym1993/flash-linux0.11-talk) | https://github.com/yihong0618/2022/issues/4#issuecomment-1200887028 | 2022-08-01 | 2022-08-08 | False |
 | [DDIA](https://ddia.qtmuniao.com) | https://github.com/yihong0618/2022/issues/4#issuecomment-1216046131 | 2022-08-16 | 2022-08-16 | False |
 | [Rogue-like](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1236598726 | 2022-09-05 | 2022-09-05 | False |
+| [hashtable](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus) | https://github.com/yihong0618/2022/issues/4#issuecomment-1254564994 | 2022-09-22 | 2022-09-22 | False |
