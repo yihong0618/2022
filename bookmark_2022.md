@@ -54,3 +54,4 @@
 | [Rogue-like](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1236598726 | 2022-09-05 | 2022-09-05 | False |
 | [hashtable](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus) | https://github.com/yihong0618/2022/issues/4#issuecomment-1254564994 | 2022-09-22 | 2022-09-22 | False |
 | [递归](https://old-panda.com/2021/10/28/how-to-convert-recursion-to-iteration/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1281692181 | 2022-10-18 | 2022-10-18 | False |
+| [调试](https://roamresearch.com/#/app/FEZ/page/pu2BlF6en) | https://github.com/yihong0618/2022/issues/4#issuecomment-1300088447 | 2022-11-02 | 2022-11-02 | False |
