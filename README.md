@@ -240,3 +240,4 @@
 | [jyywiki](https://jyywiki.cn/) | 2022.06.22 | jyy | 震撼 |
 | [izs](https://blog.izs.me/archive/) | 2022.07.06 | npm | 神的世界 |
 | [brandur](https://brandur.org/) | 2022.08.15 | postgres | English |
+| [thegreenplace](https://eli.thegreenplace.net/) | 2022.11.02 | 仰望 | English |
