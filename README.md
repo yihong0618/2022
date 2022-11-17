@@ -243,3 +243,4 @@
 | [izs](https://blog.izs.me/archive/) | 2022.07.06 | npm | 神的世界 |
 | [brandur](https://brandur.org/) | 2022.08.15 | postgres | English |
 | [thegreenplace](https://eli.thegreenplace.net/) | 2022.11.02 | 仰望 | English |
+| [晒太阳的猫](https://zyy.rs/post/) | 2022.11.17 | 有趣的人 | 跑步 |
