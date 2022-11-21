@@ -157,6 +157,7 @@
 | [《冰血暴》](https://github.com/yihong0618/2022/issues/3#issuecomment-1003545056) | 2022-01-01 | 2022-01-01 | 
 | [《月光骑士》](https://github.com/yihong0618/2022/issues/3#issuecomment-1097506118) | 2022-04-13 | 2022-04-13 | 
 | [《黑袍纠察队s3》](https://github.com/yihong0618/2022/issues/3#issuecomment-1178415403) | 2022-07-08 | 2022-07-08 | 
+| [《吉尔莫·德尔·托罗的奇思妙想》](https://github.com/yihong0618/2022/issues/3#issuecomment-1321358017) | 2022-11-21 | 2022-11-21 | 
 
 <!--END_SECTION:my_drama-->
 
