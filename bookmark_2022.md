@@ -56,3 +56,4 @@
 | [递归](https://old-panda.com/2021/10/28/how-to-convert-recursion-to-iteration/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1281692181 | 2022-10-18 | 2022-10-18 | False |
 | [调试](https://roamresearch.com/#/app/FEZ/page/pu2BlF6en) | https://github.com/yihong0618/2022/issues/4#issuecomment-1300088447 | 2022-11-02 | 2022-11-02 | False |
 | [tmux ](https://gist.github.com/ryerh/14b7c24dfd623ef8edc7) | https://github.com/yihong0618/2022/issues/4#issuecomment-1321580173 | 2022-11-21 | 2022-11-21 | False |
+| [toydb](https://github.com/erikgrinaker/toydb) | https://github.com/yihong0618/2022/issues/4#issuecomment-1322942668 | 2022-11-22 | 2022-11-22 | False |
