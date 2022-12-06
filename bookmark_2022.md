@@ -59,3 +59,4 @@
 | [toydb](https://github.com/erikgrinaker/toydb) | https://github.com/yihong0618/2022/issues/4#issuecomment-1322942668 | 2022-11-22 | 2022-11-22 | False |
 | [编码与数学循环](https://blog.csdn.net/P_LarT/article/details/127842494) | https://github.com/yihong0618/2022/issues/4#issuecomment-1322983011 | 2022-11-22 | 2022-11-22 | False |
 | [gdb](https://wizardforcel.gitbooks.io/100-gdb-tips/content/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1331733384 | 2022-11-30 | 2022-11-30 | False |
+| [游戏](https://github.com/skywind3000/mini3d) | https://github.com/yihong0618/2022/issues/4#issuecomment-1338897079 | 2022-12-06 | 2022-12-06 | False |
