@@ -61,3 +61,4 @@
 | [gdb](https://wizardforcel.gitbooks.io/100-gdb-tips/content/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1331733384 | 2022-11-30 | 2022-11-30 | False |
 | [游戏](https://github.com/skywind3000/mini3d) | https://github.com/yihong0618/2022/issues/4#issuecomment-1338897079 | 2022-12-06 | 2022-12-06 | False |
 | [nas](https://luolei.org/ugreen-dx4600/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1345989550 | 2022-12-12 | 2022-12-12 | False |
+| [videos ](https://blog.tempus-ex.com/hello-video-codec/) | https://github.com/yihong0618/2022/issues/4#issuecomment-1358781850 | 2022-12-20 | 2022-12-20 | False |
