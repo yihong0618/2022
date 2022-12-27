@@ -146,6 +146,7 @@
 | [《弃猫》](https://github.com/yihong0618/2022/issues/10#issuecomment-1179730782) | 2022-07-10 | 2022-07-10 | 
 | [《村上春树全集》](https://github.com/yihong0618/2022/issues/10#issuecomment-1229614300) | 2022-08-29 | 2022-08-29 | 
 | [《恶意》](https://github.com/yihong0618/2022/issues/10#issuecomment-1306451861) | 2022-11-08 | 2022-11-08 | 
+| [《克莱因壶》](https://github.com/yihong0618/2022/issues/10#issuecomment-1365678030) | 2022-12-27 | 2022-12-27 | 
 
 <!--END_SECTION:my_read-->
 
