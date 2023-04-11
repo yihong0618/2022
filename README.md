@@ -27,7 +27,7 @@
 
 <!--START_SECTION:my_github-->
 ## The repos I created
-| ID  |                                          REPO                                          |   START    |   UPDATE   |  LAUGUAGE  | STARS |
+| ID  |                                          REPO                                          |   START    |   UPDATE   |  LANGUAGE  | STARS |
 |-----|----------------------------------------------------------------------------------------|------------|------------|------------|-------|
 |   1 | [running_page](https://github.com/yihong0618/running_page)                             | 2020-09-17 | 2022-12-30 | JavaScript |  2197 |
 |   2 | [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)         | 2022-06-06 | 2022-12-30 | Python     |  1279 |
@@ -120,7 +120,7 @@
 | sum |                                                                                      |                                                                               |                                                                               |                                                                                             143 |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+| ID |                                          REPO                                           | STAREDDATE |  LANGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
 |  1 | [Recommend](https://github.com/NoisyWinds/Recommend)                                    | 2019-03-05 | Python     | 2022-10-22   |
 |  2 | [scorecard](https://github.com/ossf/scorecard)                                          | 2021-07-05 | Go         | 2022-12-31   |
